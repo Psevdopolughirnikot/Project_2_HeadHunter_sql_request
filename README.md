@@ -37,6 +37,5 @@
 
 ### Результат
 
-Результаты и выводы по проделанной работе представлены в [ноутбуке](https://github.com/Psevdopolughirnikot/Ptoject_1-HeadHunter_data/blob/main/Project_1_HeadHunter_base.ipynb)
-
+Результаты и выводы по проделанной работе представлены в [ноутбуке](https://github.com/Psevdopolughirnikot/Project_2_HeadHunter_sql_request/blob/main/Project_2_main.ipynb)
 [к оглавлению](#Оглавление)
